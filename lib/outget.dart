@@ -6,7 +6,6 @@ import 'package:gazou/outblaze.dart';
 import 'package:gazou/main.dart';
 import 'package:quiver/async.dart';
 import 'package:audioplayers/audioplayers.dart';
-import 'package:gazou/pause.dart';
 
 
 /// 写真撮影画面
